@@ -1,8 +1,6 @@
-birds detection with yolov8
 
 
-
-# birds detection with yolov8
+# yolov8
 
 
 
@@ -11,11 +9,11 @@ birds detection with yolov8
 ### Steps to run Code
 - Clone the repository.
 ```
-git clone https://github.com/noorkhokhar99/birds-detection-with-yolov8.git
+git clone https://github.com/noorkhokhar99/yolov8.git
 ```
 - Goto the cloned folder.
 ```
-cd birds-detection-with-yolov8
+cd yolov8
 
 ```
 - Upgrade pip with mentioned command below.
@@ -34,7 +32,7 @@ pip install -r requirements.txt
 
 
 <p align="center">
-<img src="https://github.com/noorkhokhar99/birds-detection-with-yolov8/blob/main/bird%20detection%20python%20opencv.png">
+<img src="https://github.com/noorkhokhar99/yolov8/blob/main/yolov8%20projects.png">
 </p>
 
 
